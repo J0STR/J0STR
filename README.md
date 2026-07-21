@@ -18,6 +18,9 @@
 
 ---
 
+## About me
+- PhD Student at Hochschule Ruhr West
+- Interested in Physical Intelligence
 
 ---
 
