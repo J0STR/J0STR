@@ -8,23 +8,18 @@
   
 </div>
 
-<div align="center">
-  
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j0str)
-
-  
-</div>
-
 ---
 
 ## About me
+- Located in Germany
 - PhD Student at Hochschule Ruhr West
 - Interested in Physical Intelligence
 
 ---
 
 <div align="center">
+
+ [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j0str)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
